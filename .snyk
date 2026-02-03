@@ -8,6 +8,6 @@ patch:
         patched: '2020-02-07T14:30:00.093Z'
   'npm:minimatch:20160620':
     - dustjs-linkedin > cli > glob > minimatch:
-        patched: '2026-02-03T07:43:55.352Z'
+        patched: '2026-02-03T11:18:18.536Z'
         id: 'npm:minimatch:20160620'
         path: dustjs-linkedin > cli > glob > minimatch
