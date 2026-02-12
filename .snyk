@@ -165,3 +165,4 @@ exclude:
     - '**/*.odg'
     - '**/*.odf'
     - '.whatever'
+    - 'app.txt'
