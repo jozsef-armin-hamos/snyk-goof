@@ -166,3 +166,4 @@ exclude:
     - '**/*.odf'
     - '.whatever'
     - 'app.txt'
+    - 'file\ name.txt'
