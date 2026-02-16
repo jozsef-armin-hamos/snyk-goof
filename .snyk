@@ -167,3 +167,5 @@ exclude:
     - '.whatever'
     - 'app.txt'
     - 'file\ name.txt'
+    - 'foo'
+    - '!foo/bar'
