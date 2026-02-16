@@ -169,3 +169,5 @@ exclude:
     - 'file\ name.txt'
     - 'foo'
     - '!foo/bar'
+    - 'a'
+    - '!a/b'
